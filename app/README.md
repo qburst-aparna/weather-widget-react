@@ -27,14 +27,3 @@ Contains:
 1.As soon as the app is loaded, weather data is loaded for the user’s current location using navigator.geolocation.
 2.As and when user makes any change in the form, the change will be reflected in the Widget.
 
-
-
-## Build the app
-```npm run build```
-
-This will build the app into the "dist" directory in the root of the project. It contains the index.html along with the minified assets, ready for production.
-
-## Build the app
-
-0. ```restore the db backup file```
-0. ```change the db.config.js with the new credentials```
